@@ -5,11 +5,14 @@ Installation Instructions
 
 Windows:
 To install Tkinter on Windows, use the following command:
-pip install tk
+
+'pip install tk'
+
 
 Linux:
 To install Tkinter on Linux, use the following command:
-sudo apt-get install python3-tk
+
+'sudo apt-get install python3-tk'
 
 Feel free to explore and use the code, which is provided in both English and Italian versions.
 
