@@ -1,5 +1,6 @@
 # Library-Management-Software
-This directory contains a software for managing a library, available in both C++ and Python. The software is designed to help with various library management tasks. It also features a graphical user interface built with Tkinter. You will need to install the Tkinter library to run the Python version.
+This directory contains a software for managing a library, available in both C++ and Python. The software is designed to help with various library management tasks. 
+It also features a graphical user interface built with Tkinter. You will need to install the Tkinter library to run the Python version.
 
 Installation Instructions
 
